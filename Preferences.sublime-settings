@@ -1,0 +1,42 @@
+{
+	"added_words":
+	[
+		"ragdoll",
+		"Mycroft",
+		"Foddy",
+		"Bioinformatics",
+		"Battlerite",
+		"screenshot",
+		"toolbar",
+		"iframe",
+		"Reindent",
+		"Google",
+		"iframes",
+		"minified",
+		"center",
+		"internship",
+		"online"
+	],
+	"color_scheme": "Packages/Predawn/predawn.tmTheme",
+	"dictionary": "Packages/Language - English/en_GB.dic",
+	"font_size": 13,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"ignored_words":
+	[
+		"",
+		"100m",
+		"Unfry",
+		"W",
+		"gameplay"
+	],
+	"material_theme_accent_graphite": true,
+	"material_theme_compact_panel": true,
+	"material_theme_compact_sidebar": true,
+	"material_theme_contrast_mode": true,
+	"material_theme_small_statusbar": true,
+	"spell_check": true,
+	"theme": "Material-Theme-Darker.sublime-theme"
+}

@@ -1,0 +1,6 @@
+[
+	{ "keys": ["ctrl+tab"], "command": "next_view" },
+	{ "keys": ["ctrl+shift+tab"], "command": "prev_view" },
+	{ "keys": ["ctrl+shift+5"], "command": "select_lines", "args": {"forward": true} },
+	{ "keys": ["ctrl+shift+6"], "command": "select_lines", "args": {"forward": false} }
+]

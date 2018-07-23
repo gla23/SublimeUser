@@ -5,8 +5,11 @@
 	],
 	"installed_packages":
 	[
+		"Anaconda",
 		"AutoHotkey",
+		"BracketHighlighter",
 		"Color Highlighter",
+		"Emmet",
 		"LaTeX Word Count",
 		"LaTeXing",
 		"LaTeXTools",

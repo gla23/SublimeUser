@@ -15,11 +15,12 @@
 		"minified",
 		"center",
 		"internship",
-		"online"
+		"online",
+		"Amaris"
 	],
 	"color_scheme": "Packages/Predawn/predawn.tmTheme",
 	"dictionary": "Packages/Language - English/en_GB.dic",
-	"font_size": 13,
+	"font_size": 12,
 	"ignored_packages":
 	[
 		"Vintage"

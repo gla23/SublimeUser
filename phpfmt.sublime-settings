@@ -1,0 +1,14 @@
+{
+	"additional_extensions":
+	[
+		"phpm"
+	],
+	"format_on_save": true,
+	"indent_with_space": 4,
+	"passes":
+	[
+		"AlignDoubleArrow",
+		"AutoSemicolon"
+	],
+	"version": 1
+}

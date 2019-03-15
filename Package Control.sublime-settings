@@ -7,15 +7,24 @@
 	[
 		"Anaconda",
 		"AutoHotkey",
+		"Babel",
+		"Babel Snippets",
 		"BracketHighlighter",
 		"Color Highlighter",
 		"Emmet",
+		"JsPrettier",
 		"LaTeX Word Count",
 		"LaTeXing",
 		"LaTeXTools",
 		"Material Theme",
+		"One Dark Material - Theme",
 		"Package Control",
+		"PackageResourceViewer",
+		"phpfmt",
+		"PHPGrammar",
 		"Predawn",
-		"SideBarEnhancements"
+		"SFTP",
+		"SideBarEnhancements",
+		"Theme - One Dark"
 	]
 }

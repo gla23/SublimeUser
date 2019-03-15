@@ -1,0 +1,11 @@
+{
+	// "debug": true,
+	// "auto_format_on_save": true,
+	"disable_tab_width_auto_detection": true,
+	"disable_tab_width_auto_detection": true,
+	"prettier_options": {
+		"tabWidth": 2,
+		"autoformat": true,
+		"trailingComma": "es5"
+	}
+}

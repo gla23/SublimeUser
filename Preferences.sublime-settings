@@ -22,9 +22,12 @@
 		"Philippians",
 		"Colossians",
 		"authenticatable",
-		"admin"
+		"admin",
+		"js",
+		"memoise",
+		"truthy"
 	],
-	"color_scheme": "Packages/Predawn/predawn.tmTheme",
+	"color_scheme": "Packages/User/Color Highlighter/themes/predawn.tmTheme",
 	"dictionary": "Packages/Language - English/en_GB.dic",
 	"folder_exclude_patterns":
 	[
@@ -35,6 +38,7 @@
 	"font_size": 16,
 	"ignored_packages":
 	[
+		"Naomi",
 		"Vintage"
 	],
 	"ignored_words":
@@ -52,6 +56,8 @@
 	"material_theme_small_statusbar": true,
 	"scroll_past_end": true,
 	"spell_check": true,
-	"tab_size": 4,
-	"theme": "Material-Theme-Darker.sublime-theme"
+	"tab_size": 2,
+	"theme": "Material-Theme-Darker.sublime-theme",
+	"translate_tabs_to_spaces": false,
+	"word_wrap": true
 }

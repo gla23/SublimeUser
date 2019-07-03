@@ -3,12 +3,18 @@
 	[
 		"phpm"
 	],
+	"debug": true,
 	"format_on_save": true,
 	"indent_with_space": 4,
 	"passes":
 	[
 		"AlignDoubleArrow",
-		"AutoSemicolon"
+		"AutoSemicolon",
+		"AlignPHPCode",
+		"AlignDoubleSlashComments",
+		"RestoreComments",
+		"ShortArray",
+		"SmartLnAfterCurlyOpen"
 	],
 	"version": 1
 }

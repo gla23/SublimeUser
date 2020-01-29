@@ -25,9 +25,13 @@
 		"admin",
 		"js",
 		"memoise",
-		"truthy"
+		"truthy",
+		"craniectomy",
+		"serialisable",
+		"specialty",
+		"refetch"
 	],
-	"color_scheme": "Packages/User/Color Highlighter/themes/predawn.tmTheme",
+	"color_scheme": "Packages/Predawn/predawn.tmTheme",
 	"dictionary": "Packages/Language - English/en_GB.dic",
 	"folder_exclude_patterns":
 	[
@@ -35,7 +39,7 @@
 		"vendor",
 		"public/js"
 	],
-	"font_size": 16,
+	"font_size": 15,
 	"ignored_packages":
 	[
 		"Naomi",

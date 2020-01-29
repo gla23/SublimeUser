@@ -5,11 +5,13 @@
 	],
 	"installed_packages":
 	[
+		"A File Icon",
 		"Anaconda",
 		"AutoHotkey",
 		"Babel",
 		"Babel Snippets",
 		"BracketHighlighter",
+		"Case Conversion",
 		"Color Highlighter",
 		"Emmet",
 		"ESLint",
@@ -19,18 +21,23 @@
 		"LaTeXing",
 		"LaTeXTools",
 		"Material Theme",
+		"Materialize",
 		"Naomi",
 		"One Dark Material - Theme",
 		"Package Control",
 		"PackageResourceViewer",
+		"PHP Companion",
 		"phpfmt",
 		"PHPGrammar",
 		"Predawn",
 		"Sass",
 		"SFTP",
 		"SideBarEnhancements",
+		"SortBy",
 		"SublimeLinter",
 		"SublimeLinter-php",
+		"Text Pastry",
+		"Theme - Dark Material",
 		"Theme - One Dark"
 	]
 }

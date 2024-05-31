@@ -3,7 +3,7 @@
 	[
 		"phpm"
 	],
-	"debug": true,
+	"debug": false,
 	"format_on_save": true,
 	"indent_with_space": 4,
 	"passes":
@@ -14,7 +14,9 @@
 		"AlignDoubleSlashComments",
 		"RestoreComments",
 		"ShortArray",
-		"SmartLnAfterCurlyOpen"
+		"SmartLnAfterCurlyOpen",
+		"IndentTernaryConditions",
+		"ReindentSwitchBlocks"
 	],
-	"version": 1
+	"version": 1,
 }

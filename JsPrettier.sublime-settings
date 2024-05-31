@@ -1,15 +1,17 @@
 {
+	// "auto_format_on_save": true,
 	"debug": true,
-	"auto_format_on_save": true,
-	// "disable_tab_width_auto_detection": true,
+	"prettier_cli_path": "./node_modules/.bin/prettier",
+	"allow_inline_formatting": true,
 	"auto_format_on_save_excludes": ["*.html", "phpm", "phtml"],
 	// "custom_file_extensions": ["phtml", "phpm"],
+	"custom_file_extensions": ["lua"],
 	"prettier_options": {
-		"tabWidth": 2,
-		"autoformat": true,
-		"trailingComma": "es5",
-		"parser": "babel",
+		// "tabWidth": 2,
+		// "autoformat": true,
+		// "trailingComma": "es5",
+		// "parser": "babel",
 		// "braceStyle": "1tbs",
 		// "parser": "php",
-	}
+	},
 }

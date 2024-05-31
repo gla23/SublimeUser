@@ -2,11 +2,11 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"Package Control",
 	],
 	"installed_packages":
 	[
 		"A File Icon",
-		"Anaconda",
 		"AutoHotkey",
 		"Babel",
 		"Babel Snippets",
@@ -15,6 +15,7 @@
 		"Color Highlighter",
 		"Emmet",
 		"ESLint",
+		"ImportJS",
 		"JSCustom",
 		"JsPrettier",
 		"LaTeX Word Count",
@@ -30,14 +31,16 @@
 		"phpfmt",
 		"PHPGrammar",
 		"Predawn",
+		"Predawn Monokai",
+		"RemoteCollab",
 		"Sass",
-		"SFTP",
 		"SideBarEnhancements",
 		"SortBy",
 		"SublimeLinter",
 		"SublimeLinter-php",
 		"Text Pastry",
 		"Theme - Dark Material",
-		"Theme - One Dark"
-	]
+		"Theme - One Dark",
+		"TypeScript",
+	],
 }

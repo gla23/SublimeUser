@@ -2,4 +2,6 @@
 	{ "keys": ["ctrl+tab"], "command": "next_view" },
 	{ "keys": ["ctrl+shift+tab"], "command": "prev_view" },
 	{ "keys": ["super+e"], "command": "cursor" },
+	{ "keys": ["super+option+down"], "command": "select_lines", "args": {"forward": true} },
+	{ "keys": ["super+option+up"], "command": "select_lines", "args": {"forward": false} },
 ]

@@ -29,7 +29,34 @@
 		"craniectomy",
 		"serialisable",
 		"specialty",
-		"refetch"
+		"refetch",
+		"api",
+		"recursing",
+		"accessor",
+		"Philippian",
+		"Philippi",
+		"withers",
+		"anonymised",
+		"unshrunk",
+		"inline",
+		"Trousdale",
+		"Houssney",
+		"refactoring",
+		"routinisation",
+		"Bodrum",
+		"Laravel",
+		"centerpiece",
+		"centerpieces",
+		"Redcentric",
+		"Korah",
+		"Phinehas",
+		"softcode",
+		"hitbox",
+		"Directus",
+		"deprioritised",
+		"Aslan",
+		"Aslan’s",
+		"worshiped",
 	],
 	"color_scheme": "Packages/Predawn/predawn.tmTheme",
 	"dictionary": "Packages/Language - English/en_GB.dic",
@@ -39,11 +66,11 @@
 		"vendor",
 		"public/js"
 	],
-	"font_size": 15,
+	"font_size": 17,
 	"ignored_packages":
 	[
 		"Naomi",
-		"Vintage"
+		"Vintage",
 	],
 	"ignored_words":
 	[
@@ -63,5 +90,6 @@
 	"tab_size": 2,
 	"theme": "Material-Theme-Darker.sublime-theme",
 	"translate_tabs_to_spaces": false,
-	"word_wrap": true
+	"word_wrap": true,
+	"index_files": false,
 }
